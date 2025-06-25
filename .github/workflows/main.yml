@@ -8,7 +8,7 @@ jobs:
       - name: Greeting!
         run: echo hello world
 
-  test-python-3.12:
+  test-python-3-12:
     name: Check Python 3.12 on Ubuntu
     runs-on: ubuntu-latest
     steps:
